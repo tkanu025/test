@@ -1,3 +1,6 @@
-# this is the actual test message that i wrote
+# this is the actual test message that I wrote
 
-oh i need to make some change here
+oh! I need to make some changes here
+
+sorry there were some typos
+
